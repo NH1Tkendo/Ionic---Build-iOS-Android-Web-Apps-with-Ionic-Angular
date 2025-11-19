@@ -1,4 +1,3 @@
-# Repo dùng để ghi lại những gì đã học được trên udemy
 ## Giới thiệu khóa học Ionic với Angular
 
 ## Tổng quan khóa học

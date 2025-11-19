@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "9c0545666eca3d6e",
+    "type": "split",
+    "children": [
+      {
+        "id": "27297f9847b7052e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "384f7b95d44e64f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Section 1/1-4 What is Angular.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1-4 What is Angular"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "82055056dac13907",
+    "type": "split",
+    "children": [
+      {
+        "id": "f2f91f1e094c8148",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8c3312c1dddedab5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "fde735155800daab",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a8b1a2a7dfc490d0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3cbbbe65e56ba9d8",
+    "type": "split",
+    "children": [
+      {
+        "id": "ce6caf5659d7c7a6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "36c7d5f0c6e34860",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Section 1/1-4 What is Angular.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 1-4 What is Angular"
+            }
+          },
+          {
+            "id": "68a99a588cc1ffed",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Section 1/1-4 What is Angular.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 1-4 What is Angular"
+            }
+          },
+          {
+            "id": "da902cd028e03a79",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "645a5a55945fb600",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "df9f8eba9cb59a74",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Section 1/1-4 What is Angular.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 1-4 What is Angular"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "384f7b95d44e64f5",
+  "lastOpenFiles": [
+    "Section 1/1-3 A Closer Look at the Ionic Platform.md",
+    "Section 1/1-4 What is Angular.md",
+    "md_assets/Ionic-Ecosystem.png",
+    "Section 1/1-2 What is Ionic.md",
+    "md_assets/Ionic-Platform.png",
+    "md_assets",
+    "Section 1/1-1 Course Introduction.md",
+    "README.md",
+    "Section 1"
+  ]
+}
