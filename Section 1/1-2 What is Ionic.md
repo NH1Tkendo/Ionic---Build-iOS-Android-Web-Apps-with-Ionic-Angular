@@ -3,15 +3,10 @@
 ## Khái niệm cơ bản
 
 Ionic là một nền tảng cho phép xây dựng ứng dụng đa nền tảng (cross-platform) từ **một bộ mã nguồn duy nhất**. Bạn sử dụng các công nghệ web quen thuộc (HTML, JavaScript, CSS) để phát triển giao diện người dùng, sau đó Ionic giúp chuyển đổi thành các dạng ứng dụng khác nhau:
-
 - Ứng dụng web (web apps)
-    
 - Ứng dụng web tiến bộ (Progressive Web Apps - PWA)
-    
 - Ứng dụng di động iOS và Android
-    
 - Ứng dụng desktop thông qua Electron (nếu muốn)
-    
 
 **Lợi ích chính:** Sử dụng kiến thức hiện có để tạo ra nhiều loại ứng dụng, phân phối trên nhiều kênh khác nhau với những điều chỉnh nhỏ.
 

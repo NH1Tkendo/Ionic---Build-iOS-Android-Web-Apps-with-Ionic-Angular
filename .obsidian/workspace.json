@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Section 1/1-4 What is Angular.md",
+                "file": "Section 1/1-11 How To Get The Most Out Of The Course.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1-4 What is Angular"
+              "title": "1-11 How To Get The Most Out Of The Course"
             }
           }
         ]
@@ -185,14 +185,47 @@
   },
   "active": "384f7b95d44e64f5",
   "lastOpenFiles": [
-    "Section 1/1-3 A Closer Look at the Ionic Platform.md",
-    "Section 1/1-4 What is Angular.md",
+    "Section 1/1-10 Course Outline.md",
+    "Section 1/1-11 How To Get The Most Out Of The Course.md",
+    "Section 1/1-9 Comparing Ionic to Alternatives.md",
+    "Section 1/1-8 How to Build Native Mobile Apps with Ionic.md",
+    "Section 1/1-7 Ionic 4+ vs Ionic 3.md",
+    "Section 1/1-6 The History of Ionic.md",
+    "Section 1/1-5 Our First Ionic App!.md",
+    "ThucHanh/Ionic-course/node_modules/minipass-sized/node_modules/yallist/yallist.js",
+    "ThucHanh/Ionic-course/node_modules/minipass-sized/node_modules/yallist/README.md",
+    "ThucHanh/Ionic-course/node_modules/minipass-sized/node_modules/yallist/package.json",
+    "ThucHanh/Ionic-course/node_modules/minipass-sized/node_modules/yallist/iterator.js",
+    "ThucHanh/Ionic-course/node_modules/minipass-sized/node_modules/yallist/LICENSE",
+    "ThucHanh/Ionic-course/node_modules/minipass-sized/node_modules/minipass/README.md",
+    "ThucHanh/Ionic-course/node_modules/minipass-sized/node_modules/minipass/package.json",
+    "ThucHanh/Ionic-course/node_modules/minipass-sized/node_modules/minipass/LICENSE",
+    "ThucHanh/Ionic-course/node_modules/minipass-sized/node_modules/minipass/index.js",
+    "ThucHanh/Ionic-course/node_modules/minipass-sized/node_modules/minipass/index.d.ts",
+    "ThucHanh/Ionic-course/node_modules/minipass-sized/test/basic.js",
+    "ThucHanh/Ionic-course/node_modules/minipass-sized/node_modules/yallist",
+    "ThucHanh/Ionic-course/node_modules/minipass-sized/README.md",
+    "ThucHanh/Ionic-course/node_modules/cross-spawn/README.md",
+    "ThucHanh/Ionic-course/node_modules/@jridgewell/resolve-uri/README.md",
+    "ThucHanh/Ionic-course/node_modules/connect/node_modules/on-finished/README.md",
+    "ThucHanh/Ionic-course/node_modules/connect/node_modules/on-finished/HISTORY.md",
+    "ThucHanh/Ionic-course/node_modules/connect/node_modules/ms/readme.md",
+    "ThucHanh/Ionic-course/node_modules/connect/node_modules/ms/license.md",
+    "ThucHanh/Ionic-course/node_modules/connect/node_modules/encodeurl/README.md",
+    "ThucHanh/Ionic-course/node_modules/connect/node_modules/encodeurl/HISTORY.md",
+    "ThucHanh/Ionic-course/node_modules/connect/node_modules/debug/README.md",
+    "ThucHanh/Ionic-course/node_modules/connect/node_modules/debug/CHANGELOG.md",
+    "ThucHanh/Ionic-course/node_modules/connect/SECURITY.md",
+    "ThucHanh/Ionic-course/node_modules/connect/README.md",
+    "ThucHanh/Ionic-course/node_modules/connect/HISTORY.md",
+    "ThucHanh/Ionic-course/node_modules/socket.io/node_modules/mime-types/README.md",
+    "ThucHanh/Ionic-course/node_modules/socket.io/node_modules/mime-types/HISTORY.md",
+    "ThucHanh/Ionic-course/node_modules/socket.io/node_modules/negotiator/README.md",
+    "ThucHanh/Ionic-course/src/assets/icon/favicon.png",
+    "ThucHanh/Ionic-course/src/assets/shapes.svg",
+    "ThucHanh/ionic-course/src/assets/icon/favicon.png",
+    "ThucHanh/ionic-course/src/assets/shapes.svg",
     "md_assets/Ionic-Ecosystem.png",
-    "Section 1/1-2 What is Ionic.md",
-    "md_assets/Ionic-Platform.png",
-    "md_assets",
-    "Section 1/1-1 Course Introduction.md",
-    "README.md",
-    "Section 1"
+    "md_assets/Ionic-Platform.png"
   ]
 }
