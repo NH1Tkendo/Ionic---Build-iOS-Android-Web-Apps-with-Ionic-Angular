@@ -1,7 +1,0 @@
-{
-  "name": "Ionic-course",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "angular-standalone"
-}
