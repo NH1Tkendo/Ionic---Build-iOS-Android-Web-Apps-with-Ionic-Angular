@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Budget Planner</title>
+    <script
+      type="module"
+      src="https://cdn.jsdelivr.net/npm/@ionic/core/dist/ionic/ionic.esm.js"
+    ></script>
+    <script
+      nomodule
+      src="https://cdn.jsdelivr.net/npm/@ionic/core/dist/ionic/ionic.js"
+    ></script>
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/@ionic/core/css/ionic.bundle.css"
+    />
+  </head>
+  <body>
+    <ion-app>
+      <ion-alert-controller></ion-alert-controller>
+      <ion-header>
+        <ion-toolbar color="primary">
+          <ion-title>Hello World !!!</ion-title>
+        </ion-toolbar>
+      </ion-header>
+      <ion-content>
+        <ion-grid>
+          <ion-row>
+            <ion-col size-md="6" offset-md="3">
+              <ion-card>
+                <ion-card-header>
+                  <ion-card-title> Hello </ion-card-title>
+                </ion-card-header>
+                <ion-card-content>
+                  <ion-item>
+                    <ion-label position="floating">Do something</ion-label>
+                    <ion-input type="text" id="input-something"></ion-input>
+                  </ion-item>
+                  <ion-item>
+                    <ion-label position="floating"
+                      >Do something Again</ion-label
+                    >
+                    <ion-input type="text" id="input-again"></ion-input>
+                  </ion-item>
+                  <div class="ion-margin-vertical ion-text-right">
+                    <ion-button fill="outline" color="danger" id="btn-hello">
+                      <ion-icon slot="start" name="close"></ion-icon
+                      >Hello</ion-button
+                    >
+                    <ion-button id="btn-world">World</ion-button>
+                  </div>
+                </ion-card-content>
+              </ion-card>
+            </ion-col>
+          </ion-row>
+          <ion-row>
+            <ion-col>
+              <p>Tổng số lần input: <span id="total-expenses">0</span></p>
+            </ion-col>
+          </ion-row>
+          <ion-row>
+            <ion-col>
+              <ion-list id="input-history"></ion-list>
+            </ion-col>
+          </ion-row>
+        </ion-grid>
+      </ion-content>
+    </ion-app>
+    <script src="app.js"></script>
+  </body>
+</html>
