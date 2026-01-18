@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Section 2 (Ionic Component Basic)/2-18 Why Angular.md",
+                "file": "Section 3 (Angular + Ionic)/3-3 Creating a New Project with the CLI.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2-18 Why Angular"
+              "title": "3-3 Creating a New Project with the CLI"
             }
           }
         ]
@@ -183,11 +183,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "8c3312c1dddedab5",
+  "active": "384f7b95d44e64f5",
   "lastOpenFiles": [
+    "Section 3 (Angular + Ionic)/3-2 Why Use Angular.md",
+    "Section 3 (Angular + Ionic)/3-3 Creating a New Project with the CLI.md",
+    "Pasted image 20260118225149.png",
+    "Section 3 (Angular + Ionic)/3-1 Module Introduction.md",
+    "Section 2 (Ionic Component Basic)/2-18 Why Angular.md",
+    "Section 3 (Angular + Ionic)",
     "md_assets/Why-Angular.png",
     "Section 2 (Ionic Component Basic)/2-17 Using Controller Components.md",
-    "Section 2 (Ionic Component Basic)/2-18 Why Angular.md",
     "Section 2 (Ionic Component Basic)/2-16 Finalizing the Layout.md",
     "Section 2 (Ionic Component Basic)/2-15 Finishing Up the Base JavaScript Logic.md",
     "Section 2 (Ionic Component Basic)/2-14 Creating Ionic Elements Programmatically.md",
@@ -219,17 +224,12 @@
     "ThucHanh/angular-refresher/node_modules/@angular/core/package.json",
     "ThucHanh/angular-refresher/node_modules/tslib/modules/package.json",
     "ThucHanh/angular-refresher/node_modules/tslib/modules/index.js",
-    "ThucHanh/angular-refresher/node_modules/tslib/modules/index.d.ts",
     "ThucHanh/angular-refresher/node_modules/tslib/SECURITY.md",
     "ThucHanh/angular-refresher/node_modules/tslib/README.md",
     "Section 2 (Angular Refresher)/2-11 Cross Component Communication with Property Binding.md",
-    "Section 2 (Angular Refresher)/2-10 Creating Our First Component.md",
-    "ThucHanh/angular-refresher/node_modules/rxjs/README.md",
     "md_assets/Commponents.png",
     "md_assets/SPA.png",
     "md_assets/What is Angular.png",
-    "ThucHanh/Ionic-course/src/assets/icon/favicon.png",
-    "ThucHanh/Ionic-course/src/assets/shapes.svg",
-    "ThucHanh/ionic-course/src/assets/icon/favicon.png"
+    "ThucHanh/Ionic-course/src/assets/icon/favicon.png"
   ]
 }
