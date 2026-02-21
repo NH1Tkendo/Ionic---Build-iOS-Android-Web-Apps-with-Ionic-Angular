@@ -54,9 +54,9 @@ HTML
 
 Để hiểu rõ cách hai hệ thống thành phần này tương tác trong dự án, hãy xem bảng so sánh sau:
 
-|**Tiêu chí**|**Thành phần Angular (Angular Component)**|**Thành phần Ionic (Ionic Web Component)**|
-|---|---|---|
-|**Cách tạo ra**|Do lập trình viên tự định nghĩa thông qua trình trang trí `@Component`.|Là các thành phần dựng sẵn do thư viện Ionic cung cấp.|
-|**Khả năng tùy chỉnh**|Hoàn toàn kiểm soát và có thể chỉnh sửa tự do mã nguồn.|Là mã nguồn mở nhưng không được phép chỉnh sửa trực tiếp vào mã lõi.|
-|**Môi trường hoạt động**|Chỉ có thể sử dụng bên trong **mẫu (template)** của một ứng dụng Angular.|Có thể sử dụng ở bất kỳ đâu, trong bất kỳ framework nào nhờ sử dụng công nghệ web bản địa.|
-|**Cơ chế kết xuất**|Angular chịu trách nhiệm kết xuất (render) nội dung ra **mô hình đối tượng tài liệu (DOM)**.|Lõi là các **thành phần web (web components)**, được gói (wrap) nhẹ lại bằng `@ionic/angular` để dễ sử dụng trong dự án.|
+| **Tiêu chí**             | **Thành phần Angular (Angular Component)**                                                   | **Thành phần Ionic (Ionic Web Component)**                                                                               |
+| ------------------------ | -------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| **Cách tạo ra**          | Do lập trình viên tự định nghĩa thông qua trình trang trí `@Component`.                      | Là các thành phần dựng sẵn do thư viện Ionic cung cấp.                                                                   |
+| **Khả năng tùy chỉnh**   | Hoàn toàn kiểm soát và có thể chỉnh sửa tự do mã nguồn.                                      | Là mã nguồn mở nhưng không được phép chỉnh sửa trực tiếp vào mã lõi.                                                     |
+| **Môi trường hoạt động** | Chỉ có thể sử dụng bên trong **mẫu (template)** của một ứng dụng Angular.                    | Có thể sử dụng ở bất kỳ đâu, trong bất kỳ framework nào nhờ sử dụng công nghệ web bản địa.                               |
+| **Cơ chế kết xuất**      | Angular chịu trách nhiệm kết xuất (render) nội dung ra **mô hình đối tượng tài liệu (DOM)**. | Lõi là các **thành phần web (web components)**, được gói (wrap) nhẹ lại bằng `@ionic/angular` để dễ sử dụng trong dự án. |
